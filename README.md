@@ -1,1 +1,1 @@
-# electrum-locale
+# EXOS-electrum-locale
